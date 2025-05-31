@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<package format="3"><name>hardware_interface_sc_servos</name><version>0.1.0</version><description>Hardware interface for SC servos using ros2_control</description><maintainer email="projects.circuitseeker@gmail.com">circuitseeker</maintainer><license>Apache-2.0</license><buildtool_depend>ament_cmake</buildtool_depend><depend>hardware_interface</depend><depend>pluginlib</depend><depend>rclcpp</depend><depend>rclcpp_lifecycle</depend><test_depend>ament_cmake_gtest</test_depend><export><build_type>ament_cmake</build_type></export></package>
